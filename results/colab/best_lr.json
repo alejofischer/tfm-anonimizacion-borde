@@ -1,0 +1,6 @@
+{
+ "distilbert-mbert": 8e-05,
+ "minilm-l12": 0.0001,
+ "mmbert-small": 3e-05,
+ "xlmr-base": 2e-05
+}

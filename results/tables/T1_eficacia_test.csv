@@ -1,0 +1,7 @@
+Modelo;Semillas;F1 estricto;Macro F1;Fuga (%);Falsas alarmas (%)
+DistilBERT multilingüe;3;0.846 ± 0.003;0.811 ± 0.005;7.8 ± 0.8;2.1 ± 0.6
+Multilingual MiniLM-L12;3;0.853 ± 0.022;0.824 ± 0.028;6.5 ± 1.2;2.5 ± 1.0
+mmBERT-small;3;0.877 ± 0.007;0.852 ± 0.009;4.2 ± 0.2;1.2 ± 0.2
+XLM-R base (referencia);3;0.883 ± 0.005;0.861 ± 0.005;4.4 ± 0.5;1.8 ± 0.4
+Solo reglas;—;0.219;0.219;81.6;0.0
+Presidio + spaCy;—;0.433;0.283;51.3;16.5

@@ -1,0 +1,5 @@
+Modelo;Español;Inglés;Mixto;Valores rotos
+DistilBERT multilingüe;0.871 / 10.2 %;0.872 / 6.1 %;0.841 / 5.6 %;0.942 / 2.4 %
+Multilingual MiniLM-L12;0.858 / 9.1 %;0.841 / 7.0 %;0.836 / 3.9 %;0.958 / 2.2 %
+mmBERT-small;0.885 / 8.0 %;0.903 / 5.1 %;0.881 / 3.7 %;0.951 / 1.7 %
+XLM-R base (referencia);0.889 / 6.9 %;0.882 / 4.4 %;0.879 / 2.6 %;0.975 / 1.9 %

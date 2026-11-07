@@ -1,0 +1,2 @@
+Modelo;Precisión;Tamaño (MB);RAM modelo (MB);RAM pico (MB);ms 200 car. (1 hilo);ms 1000 car. (1 hilo);ms 2000 car. (1 hilo);ms 1000 car. (4 hilos);F1 test_v2
+DistilBERT multilingüe;fp32;539.1;661.4;675.1;96.8;609.6;1436.8;143.6;0.8835

@@ -1,0 +1,21 @@
+Modelo;Formato;Tamaño (MB);F1 estricto;Fuga (%)
+DistilBERT multilingüe;PyTorch (bf16, GPU);—;0.884;7.5
+DistilBERT multilingüe;ONNX fp32;539.1;0.884;7.5
+DistilBERT multilingüe;ONNX fp16;269.6;0.884;7.5
+DistilBERT multilingüe;ONNX int8-matmul;412.0;0.874;8.3
+DistilBERT multilingüe;ONNX int8-all;135.1;0.862;8.6
+Multilingual MiniLM-L12;PyTorch (bf16, GPU);—;0.872;6.2
+Multilingual MiniLM-L12;ONNX fp32;470.3;0.872;6.1
+Multilingual MiniLM-L12;ONNX fp16;235.3;0.848;7.3
+Multilingual MiniLM-L12;ONNX int8-matmul;406.9;0.847;7.2
+Multilingual MiniLM-L12;ONNX int8-all;118.1;0.839;7.4
+mmBERT-small;PyTorch (bf16, GPU);—;0.879;6.9
+mmBERT-small;ONNX fp32;563.1;0.884;5.5
+mmBERT-small;ONNX fp16;281.9;0.881;6.9
+mmBERT-small;ONNX int8-matmul;437.0;0.840;10.7
+mmBERT-small;ONNX int8-all;141.6;0.819;10.6
+XLM-R base (referencia);PyTorch (bf16, GPU);—;0.889;5.4
+XLM-R base (referencia);ONNX fp32;1110.1;0.867;6.4
+XLM-R base (referencia);ONNX fp16;555.2;0.896;5.2
+XLM-R base (referencia);ONNX int8-matmul;855.9;0.874;7.3
+XLM-R base (referencia);ONNX int8-all;278.2;0.856;8.7

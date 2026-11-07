@@ -1,0 +1,5 @@
+Modelo;Parámetros (M);De ellos, embeddings (M);Vocabulario;Learning rate elegido;Minutos por entrenamiento (L4);Mejor época (s42/s13/s2026)
+DistilBERT multilingüe;134.7;91.8;119547;8e-05;8.6;4/4/3
+Multilingual MiniLM-L12;117.5;96.0;250037;0.0001;10.8;4/3/2
+mmBERT-small;140.6;98.3;256000;3e-05;16.0;4/3/3
+XLM-R base (referencia);277.5;192.0;250002;2e-05;18.0;4/4/4
