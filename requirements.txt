@@ -1,0 +1,16 @@
+# Entorno del análisis local (sin GPU) con el que se generaron las tablas de la memoria: Python 3.11.11, macOS.
+numpy==1.26.4
+tokenizers==0.22.2
+transformers==4.57.6
+torch==2.2.2
+onnx==1.23.1
+onnxruntime==1.23.2
+onnxconverter-common==1.16.0
+optimum==2.1.0
+optimum-onnx==0.1.0
+datasets==5.0.1
+seqeval==1.2.2
+psutil==7.2.2
+# Línea base de Presidio (analysis/baselines.py presidio), en un entorno aparte:
+#   pip install presidio-analyzer
+#   python -m spacy download es_core_news_lg && python -m spacy download en_core_web_lg
